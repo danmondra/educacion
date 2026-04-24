@@ -1,0 +1,14 @@
+[project]
+name = "eduacion"
+version = "0.1.0"
+description = "Análisis de correlaciones con abandono escolar en México"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.0.0",
+    "plotly>=5.18.0",
+    "scipy>=1.11.0",
+    "nbformat>=5.9.0",
+    "ipykernel>=6.27.0",
+    "jupyter>=1.0.0",
+]
