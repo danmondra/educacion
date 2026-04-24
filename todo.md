@@ -1,0 +1,2 @@
+- Seleccionar visualizaciones a mostrar.
+- Copiar visualizaciones a quarto.
